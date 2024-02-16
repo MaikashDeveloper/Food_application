@@ -11,6 +11,11 @@ dependencies:
     sdk: flutter
 
 
+  # equatable: ^2.0.5
+  firebase_auth: ^4.17.4
+  cloud_firestore: ^4.15.4
+  rxdart: ^0.27.7
+
 dev_dependencies:
   flutter_test:
     sdk: flutter
